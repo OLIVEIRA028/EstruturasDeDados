@@ -4,6 +4,9 @@
 
 Este repositório contém um estudo detalhado sobre Estruturas de Dados, abordando desde conceitos introdutórios até aplicações práticas. 
 
+![Estrutura de Dados I](assets/5b900809-4057-4edf-ace1-92a4464c6075.png)
+
+
 ## 📌 Estrutura do Repositório
 Cada seção do estudo está organizada em pastas, contendo arquivos explicativos (`README.md`) e exemplos práticos em código (`exemplo.py`).
 
