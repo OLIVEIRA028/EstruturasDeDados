@@ -4,7 +4,7 @@
 
 Este repositório contém um estudo detalhado sobre Estruturas de Dados, abordando desde conceitos introdutórios até aplicações práticas. 
 
-[Estrutura de Dados I](assets/5b900809-4057-4edf-ace1-92a4464c6075.png)
+![Estrutura de Dados I](assets/5b900809-4057-4edf-ace1-92a4464c6075.png)
 
 
 ## 📌 Estrutura do Repositório
