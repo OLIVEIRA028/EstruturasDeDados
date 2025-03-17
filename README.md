@@ -13,7 +13,6 @@ Cada seção do estudo está organizada em pastas, contendo arquivos explicativo
 ### 1️⃣ **Introdução às Estruturas de Dados**
 📂 **Pasta:** `Introdução`
 - 📄 `README.md`: Explica o que são estruturas de dados e sua importância.
-- 📄 `exemplo.py`: Demonstra a aplicação de estruturas de dados em problemas reais.
 
 ### 2️⃣ **Definição e Importância das Estruturas de Dados no Desenvolvimento de Programas**
 📂 **Pasta:** `Definição-Importância`
@@ -43,5 +42,5 @@ Cada seção do estudo está organizada em pastas, contendo arquivos explicativo
 
 ### 5️⃣ **Aplicação Prática: Gerenciamento de Chamados de Suporte Técnico**
 📂 **Pasta Raiz**
-- 📄 `README.md`: Explicação do problema prático.
-- 📄 `suporte_tecnico.py`: Implementação do sistema de chamados utilizando filas.
+- 📄 `PROBLEMA_PRATICO.md`: Explicação do problema prático.
+- 📄 `PROBLEMA_PRATICO.py`: Implementação do sistema de chamados utilizando filas.
