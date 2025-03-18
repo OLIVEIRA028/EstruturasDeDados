@@ -54,6 +54,6 @@ Cada seção do estudo está organizada em pastas, contendo arquivos explicativo
 3. **Sedgewick, R., & Wayne, K.** - Algorithms. Addison-Wesley.
 4. **Aho, A. V., Hopcroft, J. E., & Ullman, J. D.** - Data Structures and Algorithms. Addison-Wesley.
 5. **Knuth, D. E.** - The Art of Computer Programming. Addison-Wesley.
-6. **Livro Base:** Ziviani, N. - Projeto de Algoritmos: Com implementações em Pascal e C. Cengage Learning.
+6. **Livro Base:** 📖 *Carvalho, T. L. - Estruturas de Dados: Domine as práticas essenciais em C, Java, C#, Python e JavaScript.* Casa do Código.
 
 Estas referências foram utilizadas para embasar a documentação e os exemplos práticos contidos neste repositório.
